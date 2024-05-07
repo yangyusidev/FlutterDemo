@@ -18,3 +18,16 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+
+assets:
+  - static/images/
+  - static/file/
+
+fonts:
+  - family: wxcIconFont
+    fonts:
+      - asset: static/font/iconfont.ttf
+  - family: google_kavivanar
+    fonts:
+      - asset: static/font/google_kavivanar.ttf
